@@ -7,5 +7,6 @@
 #include <iostream>
 #include <string>
 void ft_greeting();
+void ft_greeting2();
 void t01_06();
 #endif //C___TEST_H

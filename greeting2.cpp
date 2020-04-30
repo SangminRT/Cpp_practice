@@ -7,7 +7,7 @@
 using std::cin; using std::endl;
 using std::cout; using std::string;
 
-int ft_greeting2 () {
+void ft_greeting2 () {
 	// 사용자의 이름을 물음
 	cout << "Please enter your first name: ";
 
@@ -50,5 +50,5 @@ int ft_greeting2 () {
 		}
 		cout << endl;
 	}
-	return 0;
+	return ;
 }
