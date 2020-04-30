@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/c__.dir/main.cpp.o CMakeFiles/c__.dir/greeting.cpp.o CMakeFiles/c__.dir/test01.cpp.o CMakeFiles/c__.dir/greeting2.cpp.o  -o c__ 
